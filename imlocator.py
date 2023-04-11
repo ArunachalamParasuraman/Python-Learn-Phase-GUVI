@@ -1,0 +1,10 @@
+class Locators():
+    User_RatingMIN = 'user_rating-min'
+    User_RatingMAX = 'user_rating-max'
+    User_RatingMIN_Text = '9.0'
+    User_RatingMAX_Text = '10'
+    Display_id = 'search-count'
+    Display_value = '100'
+    Lang_Name = 'languages'
+    Lang_Value = 'en'
+    Lang_Text = 'Tamil'
